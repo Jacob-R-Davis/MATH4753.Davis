@@ -2,12 +2,13 @@ Package: MATH4753.Davis
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
+Author: Jacob Davis
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Jacob-R-Davis/MATH4753.Davis
 BugReports: https://github.com/Jacob-R-Davis/MATH4753.Davis/issues
+RoxygenNote: 7.1.1
