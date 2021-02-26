@@ -1,9 +1,9 @@
 Package: MATH4753.Davis
 Type: Package
-Title: What the Package Does (Title Case)
+Title: MATH 4753 Package - Jacob Davis
 Version: 0.1.0
 Author: Jacob Davis
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: The package maintainer <jacob.r.davis-1@ou.edu>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
